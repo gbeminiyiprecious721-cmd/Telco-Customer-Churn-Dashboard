@@ -313,7 +313,7 @@ SOFTWARE.
 
 ## Author
 
-Created by [Your Name]
+Created by Gbeminiyi Precious A.
 
 ---
 
