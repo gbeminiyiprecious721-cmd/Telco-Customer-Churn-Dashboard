@@ -18,15 +18,16 @@
 2. [Live Demo](#live-demo)
 3. [Project Structure](#project-structure)
 4. [Key Findings](#key-findings)
-5. [Dashboard Pages](#dashboard-pages)
-6. [Tech Stack](#tech-stack)
-7. [Installation & Local Setup](#installation--local-setup)
-8. [Dataset](#dataset)
-9. [AI Assistant Setup](#ai-assistant-setup)
-10. [Deployment (Streamlit Community Cloud)](#deployment-streamlit-community-cloud)
-11. [.gitignore Recommendations](#gitignore-recommendations)
-12. [License](#license)
-13. [Author](#author)
+5. [Project Report](#project-report)
+6. [Dashboard Pages](#dashboard-pages)
+7. [Tech Stack](#tech-stack)
+8. [Installation & Local Setup](#installation--local-setup)
+9. [Dataset](#dataset)
+10. [AI Assistant Setup](#ai-assistant-setup)
+11. [Deployment (Streamlit Community Cloud)](#deployment-streamlit-community-cloud)
+12. [.gitignore Recommendations](#gitignore-recommendations)
+13. [License](#license)
+14. [Author](#author)
 
 ---
 
@@ -90,6 +91,12 @@ Telco-Customer-Churn-Dashboard/
 | **Highest-churn payment method** | Electronic check — **45.29%** |
 | **Highest-churn internet service** | Fiber optic — **41.89%** |
 | **Highest-churn tenure bucket** | 0–12 months — **47.44%** |
+
+## 📄 Project Report
+
+A detailed report documenting the project methodology, analysis, machine learning models, results, and business recommendations is available here:
+
+🔗 **Project Report:** [https://your-report-link](https://app.zerve.ai/report/4cf27dfd-b005-4965-ad4e-03d7f305fcba)
 
 ### Machine Learning Model Comparison
 
