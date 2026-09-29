@@ -52,7 +52,9 @@ The **Telco Customer Churn Dashboard** is a full-stack, production-ready data in
 
 ## Live Demo
 
-> 🚀 **[Launch App → https://your-app.streamlit.app](https://your-app.streamlit.app)**
+> 🚀 **[Launch App → telco-churn-precious-awolade.streamlit.app](https://telco-churn-precious-awolade.streamlit.app/)**
+
+The AI Business Assistant runs in Demo Mode on the live app (rule-based, no API key configured) — everything else (SQL analytics, both ML models, all dashboard pages) is fully live.
 
 To deploy your own instance, see [Deployment (Streamlit Community Cloud)](#deployment-streamlit-community-cloud).
 
